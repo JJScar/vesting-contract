@@ -60,6 +60,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This smart contract is provided as-is. Users should conduct their own security audit before using it in a production environment.
 
 # Contact 
-- (X)[https://x.com/JJS_OnChain]
-- (LinkedIn)[https://www.linkedin.com/in/jordan-solomon-b735b8165/]
-- (Email)[jjsonchain@gmail.com]
+- [X](https://x.com/JJS_OnChain)
+- [LinkedIn](https://www.linkedin.com/in/jordan-solomon-b735b8165/)
+- [Email](jjsonchain@gmail.com)
